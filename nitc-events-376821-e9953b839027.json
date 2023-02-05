@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nitc-events-376821",
+  "private_key_id": "e9953b83902711d540079cad212159dc523494f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCZAQxR5it1Rhvf\nwNhdkwiEzhwhprzcCATpIKJW7ZLxCMNxT1KsgFBJU2jgS9X4+5xU5l6qB1FBHYul\nAHv0D7ry5j4oehlKb3mIYVHgtBCqn57mrTxkVftYBxiIpTLAbCsaTZcOfUaAkEfh\nyx+036myG5hMP2o3WLiB9rSFGUhnmphRyWzC39sqHkaI2HHJNasvW895UqnSDpfr\nxzOrPeETl3DPaGnlqLenFzZnvV2u2no+MI0Ik71rcbCy0pIjhI/KJ04bb+N5V4xT\nqjm8qohxz7+THLLFg3g2/12/IQWfm2hEAdpkEb6xGuxvE78533qZ6hq5uQ5C3SlR\nz5pEFhc5AgMBAAECggEAL6MEZ3FewXYREqKzmrq/Eb4sQwvrTCRRBxZqhN8V+2ar\nlxlH175hgNrv0bm6xnjsLQDGo3CAy2G8CyTx8sR9A8hMvQR64FKBx8TpHalicQUe\nj5qLLYAZr8gRyuWIPiHPb7KNn+zAKSICx1mbJxDmADaYPdEWrGG6nHgnrzL2eI7N\nruKuM6mW5cqOn9Rw93xA9lfATGCDDsva9rL+zb/zuKuGMFeg3bqJtejgdqpdKSdM\nMujyOHPTdqfoClv+gf2ucbPvtS3KL4YOeGhkQrl8AqBWNJrLO5eBhlRDkZXOEmuX\nXL1NclKfucZrL2SkoN98spwVsb1LmBVaVcdeUBAEywKBgQDKEQkYmEds4GJdOuae\nNaPzj9Uiq3+c8Q/ajmeuwi6LDYbUdkN0QOxLUqos8yduOZSH9ecN4Mf3NeVgFoBA\n7R/KOYA9G/BOo9tHzhChh9R8XPniYiszAd8//YH6MxKYLkWw+KBtKGBUdwNXtPpn\ni7XPrg3zDI9YgIHH1bvVCb4WxwKBgQDB16JcZ6xXSTUozW67tUc5fPovxDXIqtWA\n0NsJeJRdQuekiUyXLaRVyoXPpEnoQzoMU2a4uAvC3aaT99b6CPeyCDBCwuTLL8cb\nK3z+RmQ7Hat9vXLnNaI8YSN703PP0kJECL7P+HnAvamwV/bgr2jf8mSd47BnAgYJ\nM4ncYgRh/wKBgQCNThh0UJkyND/VPoljfdNnUeAUXKXjFFin2An9leGCcDUngoRt\nWbFkgyxqPqgGVtHdukKX2+c6o0ACT/nkbW5btpZNJaqI8+E2d439x8T6KvK8MzZO\ndzKtxxQL6YdJUKJ/vX5Cl4e1yXxW60JpArRjxS4QF2pu037uRjMSKbv6pQKBgQCu\n4tXheMfMmIgVoALf59Wy0EcJAYVk3nxyE/0KtndlDQ/hKt6nJs61eFrx08+6dazR\nog1zatlxnnjD1z9lpuGTBkBEe4Hgr+J7aOkEoI2dqE8oytv4LjOJNjrFZSl/vrt6\nlklRaWSvuG54Y2ShoqCELDULHnnw9apscstWwjgiEQKBgQCDBqbdoBF4cDqXEMLa\nnNdWjd4if6BZZUZUD4sPkFsDS7uwL51HiRHReLHQI6WwGRMF1xA8YQP3faofqJsh\nCEEeuW1QXIA4z5ZCA5BQgbzF+p+C30lxpp69hT+/bD1mpahuIuowc1H8acVxpq8C\nGcUOdbVC6NlmQ6vl/lEq2WxirA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nitc-events@nitc-events-376821.iam.gserviceaccount.com",
+  "client_id": "103888806942655701362",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nitc-events%40nitc-events-376821.iam.gserviceaccount.com"
+}
